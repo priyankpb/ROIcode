@@ -1,6 +1,6 @@
 # ROIcode
 
-Coding Exercise:
+Coding Exercise:<br>
 ·         Write a program in Java that converts a sentence from English to Inflationary English. Inflationary English takes words and word parts that sound the same as a number (e.g. “won” v. “one”) and then inflates that to the next number (e.g. “won” becomes “two”). Provide tests for your program.
 ·          
 Example of input and output:<br>
@@ -13,8 +13,8 @@ Example of input and output:<br>
 ·  Input: Before she was Wonder Woman, she was Diana, princess of the Amazons<br>
 ·  Output: Befivee she was Twoder Woman, she was Diana, princess of the Amazons<br>
 
-How to run:
-javac InflationaryEnglish.java
-java InflationaryEnglish
+How to run:<br>
+javac InflationaryEnglish.java<br>
+java InflationaryEnglish<br>
 
 NOTE: type 'EXIT' (without quotes) to exit 
